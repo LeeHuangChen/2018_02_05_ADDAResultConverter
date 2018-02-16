@@ -1,6 +1,6 @@
 
-addaResultDir = "InputFiles/nrbd_PFam_Out_ADDA_Result.txt"
-nidToPidDir = "InputFiles/nrbd_PFam_Out_ProtToNid.txt"
+addaResultFolder = "InputFiles/Borders"
+nidToPidFolder = "InputFiles/NidToProteinTables"
 
 
 inputFolder = "InputFiles"
